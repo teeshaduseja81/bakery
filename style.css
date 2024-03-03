@@ -1,0 +1,705 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  padding: 15px;
+  text-align: center;
+}
+
+header img {
+  max-width: 100px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #555;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 14px 20px;
+  display: inline-block;
+}
+
+nav a:hover {
+  background-color: #777;
+}
+.bedazznailsmobilenailtechbusin-child {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  z-index: 0;
+}
+.menu-frame {
+  height: 23px;
+  width: 0;
+  position: absolute;
+  margin: 0 !important;
+  top: 247px;
+  left: 15px;
+  display: inline-block;
+}
+.blank-line {
+  margin: 0;
+}
+.b-rectangle {
+  height: 32px;
+  width: 0;
+  position: absolute;
+  margin: 0 !important;
+  top: 254px;
+  left: 17px;
+  font-family: var(--font-kosugi);
+  display: inline-block;
+}
+.blank-line1 {
+  margin: 0;
+}
+.text {
+  height: 36px;
+  width: 0;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 345px;
+  left: 20px;
+  font-family: var(--font-kopub-batang);
+  display: inline-block;
+}
+.best-chocolate-cupcakes-recipe {
+  height: 1660px;
+  width: 1354px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+  z-index: 4;
+}
+.cinnamint-bakery {
+  margin: 0;
+  align-self: stretch;
+  height: 80px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.welcome-to-the {
+  margin: 0;
+}
+.we-provide-organic {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.welcome-to-the-container {
+  width: 333px;
+  height: 65px;
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inder);
+  color: #e6dbdb;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+  margin-top: -30px;
+}
+.bakery-logo {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.menu {
+  margin: 0;
+  height: 40px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 2;
+}
+.bakery-logo-parent,
+.menu-text {
+  display: flex;
+  justify-content: flex-start;
+}
+.menu-text {
+  width: 241px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  font-family: var(--font-notable);
+}
+.bakery-logo-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px 0;
+  max-width: 100%;
+}
+.b-1-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 4;
+}
+.b-1-wrapper,
+.frame-group,
+.frame-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.b-1-wrapper {
+  height: 182px;
+  width: 246px;
+  flex-direction: column;
+  padding: var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+  margin-left: -88px;
+}
+.frame-group,
+.frame-wrapper {
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-group {
+  flex: 1;
+}
+.frame-wrapper {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-6xs);
+  box-sizing: border-box;
+}
+.cake,
+.lotus-cheese {
+  margin: 0;
+}
+.lotus-cheese-cake-container {
+  position: relative;
+  z-index: 1;
+}
+.contact-info {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+}
+.baked-cheesecake,
+.begins-with-a,
+.this-heavenly-creation {
+  margin: 0;
+}
+.this-heavenly-creation-container {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.cheese-cake-1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.malt-cake {
+  height: 115px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-lgi);
+  box-sizing: border-box;
+}
+.chef-rectangle,
+.malt-cake,
+.social-media-icons {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+}
+.social-media-icons {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  color: #f4e3e3;
+  font-family: var(--font-kosugi);
+}
+.chef-rectangle {
+  width: 209px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 14px 0;
+}
+.cake1,
+.chocolate-malt {
+  margin: 0;
+}
+.chocolate-malt-cake-container {
+  height: 48px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.chocolate-sponge,
+.fudged-icing-topped,
+.layered-with-melted,
+.with-maltesers {
+  margin: 0;
+}
+.chocolate-sponge-layered-container {
+  height: 103px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.malt-cake-1 {
+  height: 94px;
+  width: 92px;
+  position: relative;
+  object-fit: cover;
+  margin-left: -11px;
+}
+.cheese-cake-background,
+.fudge-icing {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fudge-icing {
+  flex: 1;
+}
+.cheese-cake-background {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-9xs);
+  color: var(--color-snow-100);
+  font-family: var(--font-kosugi);
+}
+.pineapple-sponge-description {
+  flex: 1;
+  flex-direction: column;
+  gap: 16px 0;
+}
+.chef-rectangle-parent,
+.flavor-label,
+.pineapple-sponge-description {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.flavor-label {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-10xs);
+  color: #fff5f5;
+}
+.chef-rectangle-parent {
+  height: 425px;
+  width: 237px;
+  flex-direction: column;
+  gap: 37px 0;
+  min-width: 237px;
+}
+.cake2,
+.pineapple {
+  margin: 0;
+}
+.pineapple-cake {
+  position: relative;
+}
+.menu-section-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 34px 0 var(--padding-4xl);
+}
+.pineapple-chunks,
+.vanilla-sponge-layered,
+.with-whipped-cream {
+  margin: 0;
+}
+.vanilla-sponge-layered-container {
+  align-self: stretch;
+  position: relative;
+  font-family: var(--font-kosugi);
+  color: var(--color-whitesmoke);
+}
+.contact-details-frame {
+  width: 151px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 27px 0;
+}
+.cake3,
+.red-velvet {
+  margin: 0;
+}
+.red-velvet-cake-container {
+  align-self: stretch;
+  position: relative;
+}
+.red-velvet-cake-section {
+  height: 43px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+  box-sizing: border-box;
+}
+.edge-the-cream,
+.frosting-flavor,
+.like-very-mild,
+.red-velvet-tastes,
+.with-a-slightly {
+  margin: 0;
+}
+.red-velvet-tastes-container {
+  position: relative;
+  z-index: 1;
+}
+.contact-information-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9px 0 0;
+}
+.red-velour-cake-1-2-1-icon {
+  height: 101px;
+  width: 106px;
+  position: relative;
+  object-fit: cover;
+}
+.description-frame {
+  align-self: stretch;
+  flex-direction: row;
+  color: #f3eaea;
+  font-family: var(--font-kosugi);
+}
+.background-frame,
+.chef-title-frame,
+.description-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.chef-title-frame {
+  flex: 1;
+  flex-direction: column;
+  gap: 21px 0;
+}
+.background-frame {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-4xl);
+  color: #fcf4f4;
+}
+.cinnamint-about-us-frame {
+  flex: 1;
+  flex-direction: column;
+  gap: 54px 0;
+  min-width: 220px;
+  color: var(--color-snow-100);
+}
+.cinnamint-about-us-frame,
+.frame-container,
+.frame-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-container {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-mini) 0 0;
+  box-sizing: border-box;
+  gap: 0 10px;
+  font-size: var(--font-size-xl);
+  color: #ebe4e4;
+  font-family: var(--font-inika);
+}
+.frame-parent {
+  width: 600px;
+  flex-direction: column;
+  gap: 48px 0;
+  min-width: 600px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-russo-one);
+}
+.about-us1 {
+  margin: 0;
+}
+.about-us {
+  height: 42px;
+  position: relative;
+  display: inline-block;
+}
+.about-us-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 47px 0 var(--padding-xl);
+}
+.with-roots-dating {
+  align-self: stretch;
+  height: 203px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inder);
+  color: var(--color-whitesmoke);
+  white-space: pre-wrap;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.chef-rectangle1,
+.frame-div {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-div {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px 0;
+}
+.chef-rectangle1 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-6xs) 0 0;
+}
+.chef-1-icon {
+  height: 152px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.contact-us-frame {
+  width: 239px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 8px 0;
+  box-sizing: border-box;
+}
+.contact-us-at {
+  width: 204px;
+  height: 44px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+  z-index: 1;
+}
+.contact-no-9866453576-0 {
+  height: 37px;
+  position: relative;
+  display: inline-block;
+}
+.contact-no-9866453576-0-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 18px;
+}
+.email-cinnamintbakerygmailc,
+.instagram-cinnamint-bakery {
+  margin: 0;
+}
+.instagram-cinnamint-bakery-container {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.contact-info-frame,
+.contact-info-frame-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact-info-frame {
+  flex: 1;
+  flex-direction: column;
+}
+.contact-info-frame-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-lgi);
+}
+.gmail-logo-512px-1-icon,
+.pngtree-whatsapp-icon-social-m {
+  height: 49px;
+  width: 76px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.pngtree-whatsapp-icon-social-m {
+  width: 58px;
+  height: 58px;
+}
+.pngtree-whatsapp-icon-social-m-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) 0 0;
+}
+.instagram-icon-2048x2048-uc6fe {
+  height: 55px;
+  width: 53px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.gmail-logo-512px-1-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 21px;
+}
+.about-us-frame,
+.contact-us-frame-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.contact-us-frame-parent {
+  align-items: flex-start;
+  padding: 0 0 0 17px;
+  gap: 16px 0;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inika);
+}
+.about-us-frame {
+  align-items: flex-end;
+  gap: 79px 0;
+}
+.about-us-frame-wrapper,
+.bedazznailsmobilenailtechbusin {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.about-us-frame-wrapper {
+  width: 261px;
+  flex-direction: column;
+  padding: 29px 0 0;
+  min-width: 261px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-notable);
+}
+.bedazznailsmobilenailtechbusin {
+  width: 100%;
+  position: relative;
+  background-color: rgba(17, 13, 13, 0.88);
+  overflow: hidden;
+  flex-direction: row;
+  padding: 14px var(--padding-8xs) 33px;
+  gap: 0 51px;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-indie-flower);
+}
+@media screen and (max-width: 900px) {
+  .cinnamint-bakery,
+  .menu {
+    font-size: var(--font-size-10xl);
+  }
+  .about-us-frame-wrapper,
+  .frame-parent {
+    flex: 1;
+  }
+  .bedazznailsmobilenailtechbusin {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 675px) {
+  .chef-rectangle-parent {
+    flex: 1;
+  }
+  .frame-container {
+    flex-wrap: wrap;
+  }
+  .frame-parent {
+    gap: 48px 0;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cinnamint-bakery,
+  .menu {
+    font-size: var(--font-size-3xl);
+  }
+  .chocolate-malt-cake-container,
+  .chocolate-sponge-layered-container,
+  .lotus-cheese-cake-container,
+  .pineapple-cake,
+  .red-velvet-cake-container,
+  .red-velvet-tastes-container,
+  .this-heavenly-creation-container,
+  .vanilla-sponge-layered-container {
+    font-size: var(--font-size-base);
+  }
+  .cinnamint-about-us-frame {
+    gap: 54px 0;
+  }
+  .about-us,
+  .contact-us-at {
+    font-size: var(--font-size-lgi);
+  }
+  .about-us-frame {
+    gap: 79px 0;
+  }
+  .bedazznailsmobilenailtechbusin {
+    gap: 0 51px;
+  }
+}

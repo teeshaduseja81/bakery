@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inika: Inika;
+  --font-inder: Inder;
+  --font-notable: Notable;
+  --font-kosugi: Kosugi;
+  --font-russo-one: "Russo One";
+  --font-kopub-batang: "KoPub Batang";
+  --font-indie-flower: "Indie Flower";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-17xl: 36px;
+  --font-size-3xl: 22px;
+  --font-size-10xl: 29px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-whitesmoke: #f7f1f1;
+  --color-snow-100: #fcf7f7;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-60xl: 79px;
+  --gap-base: 16px;
+  --gap-xl: 20px;
+  --gap-29xl: 48px;
+  --gap-35xl: 54px;
+
+  /* Paddings */
+  --padding-8xs: 5px;
+  --padding-mini: 15px;
+  --padding-lgi: 19px;
+  --padding-xl: 20px;
+  --padding-6xs: 7px;
+  --padding-4xl: 23px;
+  --padding-9xs: 4px;
+  --padding-10xs: 3px;
+}
